@@ -95,10 +95,10 @@ Credits and references used in this README:
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
 - [**Contact**](mailto:maximus@nextwork.org)
 
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+<a href="www.linkedin.com/in/aditya-sherla-032628103" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+<a href="" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
